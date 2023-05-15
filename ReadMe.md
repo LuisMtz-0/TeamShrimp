@@ -15,6 +15,7 @@
 - To run the test the command 'npm test' need to be run in terminal
 
 ## Usage
+[ShrimpTeam.webm](https://github.com/LuisMtz-0/TeamShrimp/assets/118570822/33cc075e-38b0-4930-8c71-1066ec4dac4e)
 
 ## License 
 
